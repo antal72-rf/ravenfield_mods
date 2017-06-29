@@ -20,3 +20,5 @@ This is a collection of Ravenfield mods. They are made by the Ravenfield Communi
 8. Rename Assembly-CSharp.dll to another name like Assembly-CSharp-normal.dll
 9. Copy and paste the modded Assembly-CSharp.dll (make sure it is named that) and place it in the Managed folder
 10. Start Ravenfield (if you want to remove the mod delete Assembly-CSharp.dll from Managed and rename Assembly-CSharp-normal.dll or whatever you named it back to normal)
+
+###### Instructions made by MilesFM
