@@ -22,3 +22,8 @@ This is a collection of Ravenfield mods. They are made by the Ravenfield Communi
 10. Start Ravenfield (if you want to remove the mod delete Assembly-CSharp.dll from Managed and rename Assembly-CSharp-normal.dll or whatever you named it back to normal)
 
 ###### Instructions made by MilesFM
+
+
+# How to mod Ravenfield yourself
+[![Video Thumbnail](https://img.youtube.com/vi/r7tywn0QMqo/0.jpg)]
+(https://youtu.be/r7tywn0QMqo)
