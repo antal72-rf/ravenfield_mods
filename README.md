@@ -25,5 +25,5 @@ This is a collection of Ravenfield mods. They are made by the Ravenfield Communi
 
 
 # How to mod Ravenfield yourself
-(https://youtu.be/r7tywn0QMqo)
 [![Video Thumbnail](https://img.youtube.com/vi/r7tywn0QMqo/0.jpg)]
+(https://youtu.be/r7tywn0QMqo "Video Link")
