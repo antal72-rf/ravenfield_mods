@@ -1,0 +1,1 @@
+Do normal install with Assembly-CSharp but place the other non .md files one folder higher. If override files that are already there.
