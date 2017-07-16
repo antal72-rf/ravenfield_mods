@@ -1,0 +1,1 @@
+Press 'o' to launch everyone into the air
