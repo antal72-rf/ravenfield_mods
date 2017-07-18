@@ -1,1 +1,1 @@
-Press 'O' to become invincible (no fall as well) for 10 seconds but have your original health halfed afterwards.
+Here it is everyone. The *1st* version of the shield mod! Press 'O' to become invincible (no fall as well) for 10 seconds but have your original health halfed afterwards. One time use per spawn.
