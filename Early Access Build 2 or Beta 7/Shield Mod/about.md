@@ -1,0 +1,1 @@
+Press 'O' to become invincible (no fall as well) for 10 seconds but have your original health halfed afterwards.
