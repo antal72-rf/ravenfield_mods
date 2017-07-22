@@ -1,0 +1,1 @@
+Press 't' to toggle 3rd person on and off
