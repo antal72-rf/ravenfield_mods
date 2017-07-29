@@ -1,0 +1,1 @@
+Update to the modpack for EA3, added Block Blood and removed bloodsplats (annoying on CQC maps). T is a laser sight for any gun (no longer bugs gun sounds or movement), Y turns on superhot mode, where time only moves when you move (slowmo is disabled because of this), and U turns on an aimbot.
