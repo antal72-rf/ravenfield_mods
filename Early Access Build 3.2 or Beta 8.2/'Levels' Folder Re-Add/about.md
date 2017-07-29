@@ -1,0 +1,3 @@
+A mod for EA3 which adds the "levels" folder back. Useful for maps not on the workshop or if you want to play maps on the go (no Steam Access). Remember to create the "levels" folder in the same place the executable lies.
+
+Future plans would be to allow images to be loaded but it might not come...
