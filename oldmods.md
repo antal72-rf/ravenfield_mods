@@ -1,1 +1,0 @@
-Please bare in mind, mods only work with the version they were made for and some of these mods use versions of Ravenfield no longer available. In that case the mod is there so you can view the code and remake it if you like.
