@@ -1,0 +1,1 @@
+Place rbxdeath.wav in your *base* ravenfield folder (beside the exe).
