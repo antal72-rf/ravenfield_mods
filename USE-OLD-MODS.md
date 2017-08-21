@@ -1,4 +1,3 @@
-```
 # Download older versions of Ravenfield
 Do you want to try out older mods for older versions of Ravenfield? This is how:
 
@@ -22,4 +21,3 @@ For steam (most likely what you want) you need to follow several steps:
     8. Copy the files.
     9. Got to library, Ravenfield, properties, local files and paste the files into the Ravenfield directory.
     10. You're done! To go back, force update Ravenfield and it will be back to normal.
-```
