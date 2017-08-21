@@ -1,11 +1,11 @@
 # Download older versions of Ravenfield
 Do you want to try out older mods for older versions of Ravenfield? This is how:
 
-For pre-steam go to here:
+**For pre-steam go to here: **
 Beta 5: https://steelraven7.itch.io/ravenfield
 Beta 1-4: https://steelraven7.itch.io/ravenfield-beta-3-old-game-version?secret=C2Jwn6nFFBVNLANgtJGGx3OF4
 
-For steam (most likely what you want) you need to follow several steps:
+**For steam (most likely what you want) you need to follow several steps:**
 
     1. Open steam in with the console tab. To do this type this into a browser: steam://nav/console.
     2. Choose the platform you want to download for (remember this code for later):
