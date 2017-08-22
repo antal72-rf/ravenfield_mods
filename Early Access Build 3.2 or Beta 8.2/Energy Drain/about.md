@@ -1,0 +1,1 @@
+Small prototype mod of a future vampire mod (wait for balance to be fixed). Start with 5hp, when ever someone dies, you gain +5hp.
