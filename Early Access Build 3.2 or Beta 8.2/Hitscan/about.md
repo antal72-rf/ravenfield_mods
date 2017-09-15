@@ -1,0 +1,1 @@
+all of your weapons (not grenades, not yet), are hitscan weapons! (Stable)

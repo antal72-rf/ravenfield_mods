@@ -1,0 +1,1 @@
+now you can blast your enemys from a distance with the Orbital Strike (Y for orbital strike), and cover the map with exsplosions with an Artillary Barrage (T for that), Enjoy (Stable only) (Spectatior mode is a bit broken)
