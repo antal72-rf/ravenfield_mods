@@ -1,0 +1,1 @@
+AA-AA Giver! are you too lazy to download a map, find some tower in the middle of no where, and touch some wierd glowy thingy on top of it! me too! now with a click of a button (T) you can equip the powerfull "secrect" weapon

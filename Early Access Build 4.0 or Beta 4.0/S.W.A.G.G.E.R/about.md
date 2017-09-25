@@ -1,0 +1,1 @@
+S.W.A.G.G.E.R (doesnt stand for anything), the other day some one gave me a fantastic idea, what if every time you shoot your guns stats a changed? so I did that #NoRegurts

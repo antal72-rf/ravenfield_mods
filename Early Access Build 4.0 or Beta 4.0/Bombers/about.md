@@ -1,0 +1,1 @@
+BOMBERS! You planes have been convertied to state of the art bomber planes! press space to drop a powerfull bomb! back space for a very balanced nuke! (C for a bomber camera)

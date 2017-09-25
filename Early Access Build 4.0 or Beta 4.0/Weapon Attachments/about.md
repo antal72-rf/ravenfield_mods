@@ -1,0 +1,1 @@
+WEAPON ATTACHMENTS! thats right folks you can now use suppresures (P) a sick wazer sight! (O) and a nice wierd looking ammo drum! (I), Enjoy! (this mod is WIP, that means there are some bugs, please ping me if you find any, Stable Only!)
