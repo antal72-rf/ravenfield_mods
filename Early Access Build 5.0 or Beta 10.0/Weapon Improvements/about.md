@@ -1,0 +1,6 @@
+-HMG has longer overheat time
+-SL Defender, 76 Eagle, and Akimbo Autotomaticos have improved ammo capacity
+-76 Eagle has 8 projectiles per shot now, but less spread and more damage, making it more realistic and effective at medium range
+-Pressing C with the 76 Eagle will reload the gun with powerful slug shots that do 80 damage, with 1 shot headshot for longer ranged engagements. Pressing it again will reload it with normal shells. No, its not a shotgun sniper, the bullet still has spread. Its not accurate, just better than normal for mid range.
+-Pressing C with any default assault rifle (RK-44, Signal DMR, and Patriot) will toggle between automatic and semi-auto fire modes.
+-Press O for a green lazer sight.
